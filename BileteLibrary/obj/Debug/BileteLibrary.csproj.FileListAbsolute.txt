@@ -1,0 +1,6 @@
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteLibrary\bin\Debug\BileteLibrary.dll
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteLibrary\bin\Debug\BileteLibrary.pdb
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteLibrary\obj\Debug\BileteLibrary.csproj.AssemblyReference.cache
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteLibrary\obj\Debug\BileteLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteLibrary\obj\Debug\BileteLibrary.dll
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteLibrary\obj\Debug\BileteLibrary.pdb
