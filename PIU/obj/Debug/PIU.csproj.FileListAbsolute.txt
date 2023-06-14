@@ -1,0 +1,13 @@
+C:\Users\Drago\OneDrive\Documents\PIU2\PIU\bin\Debug\PIU.exe.config
+C:\Users\Drago\OneDrive\Documents\PIU2\PIU\bin\Debug\PIU.exe
+C:\Users\Drago\OneDrive\Documents\PIU2\PIU\bin\Debug\PIU.pdb
+C:\Users\Drago\OneDrive\Documents\PIU2\PIU\bin\Debug\BeleteMgm.dll
+C:\Users\Drago\OneDrive\Documents\PIU2\PIU\bin\Debug\BileteLibrary.dll
+C:\Users\Drago\OneDrive\Documents\PIU2\PIU\bin\Debug\BeleteMgm.pdb
+C:\Users\Drago\OneDrive\Documents\PIU2\PIU\bin\Debug\BileteLibrary.pdb
+C:\Users\Drago\OneDrive\Documents\PIU2\PIU\obj\Debug\PIU.csproj.AssemblyReference.cache
+C:\Users\Drago\OneDrive\Documents\PIU2\PIU\obj\Debug\PIU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Drago\OneDrive\Documents\PIU2\PIU\obj\Debug\PIU.csproj.CoreCompileInputs.cache
+C:\Users\Drago\OneDrive\Documents\PIU2\PIU\obj\Debug\PIU.csproj.CopyComplete
+C:\Users\Drago\OneDrive\Documents\PIU2\PIU\obj\Debug\PIU.exe
+C:\Users\Drago\OneDrive\Documents\PIU2\PIU\obj\Debug\PIU.pdb

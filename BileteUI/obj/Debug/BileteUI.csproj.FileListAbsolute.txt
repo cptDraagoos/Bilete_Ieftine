@@ -1,0 +1,16 @@
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\bin\Debug\BileteUI.exe.config
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\bin\Debug\BileteUI.exe
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\bin\Debug\BileteUI.pdb
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\bin\Debug\BeleteMgm.dll
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\bin\Debug\BileteLibrary.dll
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\bin\Debug\BeleteMgm.pdb
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\bin\Debug\BileteLibrary.pdb
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\obj\Debug\BileteUI.csproj.AssemblyReference.cache
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\obj\Debug\BileteUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\obj\Debug\BileteUI.Form1.resources
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\obj\Debug\BileteUI.Properties.Resources.resources
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\obj\Debug\BileteUI.csproj.GenerateResource.cache
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\obj\Debug\BileteUI.csproj.CoreCompileInputs.cache
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\obj\Debug\BileteUI.csproj.CopyComplete
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\obj\Debug\BileteUI.exe
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\obj\Debug\BileteUI.pdb

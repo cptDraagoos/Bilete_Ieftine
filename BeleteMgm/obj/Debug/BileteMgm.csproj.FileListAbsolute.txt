@@ -1,0 +1,9 @@
+C:\Users\Drago\OneDrive\Documents\PIU2\BeleteMgm\bin\Debug\BeleteMgm.dll
+C:\Users\Drago\OneDrive\Documents\PIU2\BeleteMgm\bin\Debug\BeleteMgm.pdb
+C:\Users\Drago\OneDrive\Documents\PIU2\BeleteMgm\bin\Debug\BileteLibrary.dll
+C:\Users\Drago\OneDrive\Documents\PIU2\BeleteMgm\bin\Debug\BileteLibrary.pdb
+C:\Users\Drago\OneDrive\Documents\PIU2\BeleteMgm\obj\Debug\BileteMgm.csproj.AssemblyReference.cache
+C:\Users\Drago\OneDrive\Documents\PIU2\BeleteMgm\obj\Debug\BileteMgm.csproj.CoreCompileInputs.cache
+C:\Users\Drago\OneDrive\Documents\PIU2\BeleteMgm\obj\Debug\BileteMgm.csproj.CopyComplete
+C:\Users\Drago\OneDrive\Documents\PIU2\BeleteMgm\obj\Debug\BeleteMgm.dll
+C:\Users\Drago\OneDrive\Documents\PIU2\BeleteMgm\obj\Debug\BeleteMgm.pdb
