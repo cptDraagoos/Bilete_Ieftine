@@ -386,5 +386,11 @@ namespace BileteUI
                 nextIdBilet = bilete[nrBilet - 1].IdBilet + 1;
             }
         }
+
+        private void btnCumpara_Click(object sender, EventArgs e)
+        {
+            var newform = new Form2();
+            newform.Show();
+        }
     }
 }

@@ -14,3 +14,4 @@ C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\obj\Debug\BileteUI.csproj.CoreCo
 C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\obj\Debug\BileteUI.csproj.CopyComplete
 C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\obj\Debug\BileteUI.exe
 C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\obj\Debug\BileteUI.pdb
+C:\Users\Drago\OneDrive\Documents\PIU2\BileteUI\obj\Debug\BileteUI.Form2.resources

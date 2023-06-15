@@ -50,6 +50,7 @@
             this.lblId = new System.Windows.Forms.Label();
             this.btnCauta = new System.Windows.Forms.Button();
             this.Mesaj2 = new System.Windows.Forms.Label();
+            this.btnCumpara = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Mesaj
@@ -248,11 +249,23 @@
             this.Mesaj2.TabIndex = 22;
             this.Mesaj2.Text = "mesaj";
             // 
+            // btnCumpara
+            // 
+            this.btnCumpara.Location = new System.Drawing.Point(91, 466);
+            this.btnCumpara.Name = "btnCumpara";
+            this.btnCumpara.Size = new System.Drawing.Size(75, 23);
+            this.btnCumpara.TabIndex = 23;
+            this.btnCumpara.Text = "CUMPARA BILET";
+            this.btnCumpara.UseVisualStyleBackColor = true;
+            this.btnCumpara.Click += new System.EventHandler(this.btnCumpara_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(466, 560);
+            this.Controls.Add(this.btnCumpara);
             this.Controls.Add(this.Mesaj2);
             this.Controls.Add(this.btnCauta);
             this.Controls.Add(this.lblId);
@@ -308,6 +321,7 @@
         private System.Windows.Forms.Label lblId;
         private System.Windows.Forms.Button btnCauta;
         private System.Windows.Forms.Label Mesaj2;
+        private System.Windows.Forms.Button btnCumpara;
     }
 }
 

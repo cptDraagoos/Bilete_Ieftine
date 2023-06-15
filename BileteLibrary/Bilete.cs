@@ -83,5 +83,14 @@ namespace BileteLibrary
                 (TipAcces ?? "NECUNOSCUT"));
             return Info;
         }
+
+        public string Info2()
+        {
+            string info = string.Format("Ati cumparat un bilet la {0}, in locatia {1} la pretul de {2}",
+                (NumeArtist ?? "NECUNOSCUTA"),
+                (LocatieConcert ?? "NECUNOSCUTA"),
+                PretBilete.ToString());
+            return info;
+        }
     }
 }
