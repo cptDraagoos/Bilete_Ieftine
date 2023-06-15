@@ -66,7 +66,7 @@
             // lblCumparat
             // 
             this.lblCumparat.AutoSize = true;
-            this.lblCumparat.Location = new System.Drawing.Point(21, 221);
+            this.lblCumparat.Location = new System.Drawing.Point(12, 214);
             this.lblCumparat.Name = "lblCumparat";
             this.lblCumparat.Size = new System.Drawing.Size(0, 13);
             this.lblCumparat.TabIndex = 3;

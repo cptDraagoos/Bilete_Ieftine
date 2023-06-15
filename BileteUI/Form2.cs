@@ -60,6 +60,7 @@ namespace BileteUI
             if (!ok) return;
             lblCumparat.Text = bilete.Info2();
             lblCumparat.ForeColor = Color.Green;
+            bilete.NumarBilete = bilete.NumarBilete - 1;
         }
 
         private void Form2_Load(object sender, EventArgs e)
